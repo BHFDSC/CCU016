@@ -1,7 +1,3 @@
-# BHF Data Science Centre research project template
-
-This is a template repository used by the BHF Data Science Centre team when creating new research projects for CVD-COVID-UK where analyses are performed in a TRE in more than one nation.
-
 # Cardiovascular and cerebrovascular diseases related to antipsychotic prescribing in patients with dementia during the COVID-19 pandemic
 
 ## Project description
