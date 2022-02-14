@@ -8,6 +8,12 @@ This increase in antipsychotic prescribing during the COVID-19 pandemic is conce
 
 We will investigate whether this increase in antipsychotic prescribing has led to an increase in strokes or heart attacks. To do this, we will use information that is collected routinely by health services, such as GP records, prescriptions and diagnoses recorded in hospital. We hope that the results of this study will help inform decision making between doctors, patients and carers, by enabling them to weigh up the risks and benefits of prescribing an antipsychotic.
 
+## Sub-projects
+
+The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
+
+> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK Approvals & Oversight Board (Project ID: CCU016).
+This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCU016).
