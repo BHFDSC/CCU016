@@ -12,7 +12,7 @@ We will investigate whether this increase in antipsychotic prescribing has led t
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-[CCU016_01: Antipsychotic prescribing and mortality in people with dementia before and during the COVID-19 pandemic: retrospective cohort study](https://github.com/BHFDSC/CCU016_01)
+[CCU016_01: Antipsychotic drug prescribing and mortality in people with dementia before and during the COVID-19 pandemic: a retrospective cohort study in Wales, UK](https://github.com/BHFDSC/CCU016_01)
 
 ## Project approval
 
